@@ -1,0 +1,13 @@
+{
+  "name": "webworker-tree-search",
+  "version": "1.0.0",
+  "description": "Compare tree search with and without webworkers",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nenad Kuzmanovic <kuzma86@gmail.com>",
+  "license": "ISC"
+}
